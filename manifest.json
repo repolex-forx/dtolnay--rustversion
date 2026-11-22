@@ -48,6 +48,20 @@
       ],
       "ast": [
         "aggregate/ast/9e86f839b6a34a7d9398f243d88bf400b7fa1f7c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9e86f839b6a34a7d9398f243d88bf400b7fa1f7c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "trybuild",
+          "ecosystem": "CARGO",
+          "version": "1.0.49",
+          "githubOrg": "dtolnay",
+          "githubRepo": "trybuild",
+          "githubCommit": "7ddf992f8382950c73ab067d59885d6d24e2b69e",
+          "githubTag": "1.0.49",
+          "githubUrl": "https://github.com/dtolnay/trybuild",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
