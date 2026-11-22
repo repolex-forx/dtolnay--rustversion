@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "rustversion",
+  "versions": [
+    {
+      "commit": "9e86f839b6a34a7d9398f243d88bf400b7fa1f7c",
+      "tag": "1.0.22",
+      "parsed_at": "2026-11-22T09:29:04.583260+00:00"
+    }
+  ]
+}
